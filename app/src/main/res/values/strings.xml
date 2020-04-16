@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CuponDB</string>
+    <string name="API_KEY">a96a81da79b6948422c551b931576479</string>
+    <string name="title">Cupon Title</string>
+    <string name="store_lb">Store:</string>
+    <string name="store">tienda</string>
+    <string name="end_date_lb">End date:</string>
+    <string name="end_date">18-mar-2008</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_date_lb">Start date:</string>
+    <string name="description_lb">Description:</string>
+    <string name="description">descripcion</string>
+
+</resources>
